@@ -18,6 +18,7 @@ def Message():
     root.withdraw()  # Hide the main window
 
     messagebox.showinfo("Done", "Enjoy your brand new clean desktop environment!")
+    exit()
 
 
 def Parser(path):
